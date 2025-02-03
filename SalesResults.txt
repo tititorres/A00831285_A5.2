@@ -1,0 +1,13 @@
+Tiempo de ejecución: 0.0020 segundos
+
+Archivo: TC1.Sales.json
+Costo total de las ventas: 2481.86 unidades monetarias
+
+Archivo: TC2.Sales.json
+Costo total de las ventas: 166568.23 unidades monetarias
+
+Archivo: TC3.Sales.json
+Costo total de las ventas: 165235.37 unidades monetarias
+Errores detectados:
+Producto no encontrado en catálogo: Elotes
+Producto no encontrado en catálogo: Frijoles
